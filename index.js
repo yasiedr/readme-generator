@@ -1,3 +1,9 @@
+const fs = require("fs");
+const inquirer = require("inquirer");
+const path = require("path");
+const generateMarkdown = require("./utils/generateMarkdown");
+
+
 const questions = [  {    type: "input",    message: "What is your project title?",    name: "title",  }, 
  {    type: "input",    message: "Please enter a brief description of your project",    name: "description",  }, 
   {    type: "input",    message: "Please provide installation instructions",    name: "installation",  }, 
