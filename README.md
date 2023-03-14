@@ -1,7 +1,7 @@
-# full stack
+# readme-generator
   
     ## Description
-    web developing
+    learning node
   
     ## Table of Contents
     - [Installation](#installation)
@@ -12,13 +12,13 @@
     - [Questions](#questions)
   
     ## Installation
-    follow pdf
+    read instruction
   
     ## Usage
-    link
+    
   
     ## Contributing
-    
+    check bellow
   
     ## Tests
     
@@ -27,6 +27,6 @@
     This project is licensed under the MIT license.
   
     ## Questions
-    If you have any questions or issues, please contact me at [](mailto:). You can also visit my [GitHub profile](https://github.com/).
+    If you have any questions or issues, please contact me at [yas.edrisian@gmail.com](mailto:yas.edrisian@gmail.com). You can also visit my [GitHub profile](https://github.com/yasiedr).
   
   
